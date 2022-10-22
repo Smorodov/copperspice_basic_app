@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/ks.ico</file> 
+        <file>resources/ks_de.qm</file>
+        <file>resources/ks_de.ts</file>
+        <file>resources/ks_en.qm</file>
+        <file>resources/ks_en.ts</file>
+        <file>resources/ks_fr.qm</file>
+        <file>resources/ks_fr.ts</file>
+    </qresource>
+</RCC>
